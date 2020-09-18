@@ -1,0 +1,2 @@
+# Machine-Learning-Algorithms-Modeled-from-Machine-Vision-Based-Lettuce-Growth-Stage-Classification-in
+The repository contains the code used for the research paper entitled A Comparative Analysis of Machine Learning Algorithms Modeled from Machine Vision-Based Lettuce Growth Stage Classification in Smart Aquaponics as published by International Journal of Environmental Science and Development in 2020 
